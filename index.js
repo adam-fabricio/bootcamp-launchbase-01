@@ -84,4 +84,3 @@ sendMessage(average2, 'Class B')
 
 studentsFlunked(classA)
 studentsFlunked(classB)
-console.log('Hello World')
